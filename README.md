@@ -40,5 +40,6 @@ The license can be found in [LICENSE](https://github.com/mikhail-j/nvidia-temp/b
 ## Donations
 If you would to pay for future software improvements and hardware procurement, the following addresses can be used for donations:
 
-ETH address: 0x0a279e39161285c25784790938319c07A76F10B5
-BTC address: 36UdjiYwcr3rADeSvdK2CU9tDwgrcCzDQn
+Ethereum (ETH) address: 0x0a279e39161285c25784790938319c07A76F10B5
+
+Bitcoin (BTC) address: 36UdjiYwcr3rADeSvdK2CU9tDwgrcCzDQn
