@@ -8,9 +8,9 @@ nvidia-temp displays GPU fan speeds, GPU die temperatures, and GPU memory temper
 Blackbody Research makes no representation about the suitability of this source code for any purpose. It is provided "as is" without express or implied warranty of any kind. Blackbody Research disclaims all warranties with regard to this source code, including all implied warranties of merchantability, noninfringement, and fitness for a particular purpose. In no event shall Blackbody Research be liable for any special, indirect, incidental, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action,  arising out of or in connection with the use or performance of this source code.
 
 ## Prerequisites
--C99 C compiler support
--NVIDIA driver
--CUDA Toolkit
+- C99 C compiler support
+- NVIDIA driver
+- CUDA Toolkit
 
 ## Building nvidia-temp
 
